@@ -1,3 +1,1 @@
-Kele Client Gem
-
-- come back for more updates
+*Kele Client Gem*
